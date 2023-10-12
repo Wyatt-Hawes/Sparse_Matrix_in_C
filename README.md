@@ -1,4 +1,5 @@
-**Matrix and Sparse
+# Matrix and Sparse
+- All code except headers made by myself
 
 FindComponents and Graph
 ==============
